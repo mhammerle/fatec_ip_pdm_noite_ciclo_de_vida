@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='fatec_ip_pdm_noite_ciclo_de_vida'
